@@ -13,7 +13,6 @@ Database - Database is hosted on RDS (Relational Database Service), by using RDS
 
 DNS - We have used Route53 for mapping the DNS for our application. 
 
-![Test Image 3](https://drive.google.com/file/d/1jltMe8Pq2Jawno_M92ROoo2ctN4b2TPD/view?usp=sharing)
 
 
 

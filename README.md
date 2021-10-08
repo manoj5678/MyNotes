@@ -16,3 +16,4 @@ DNS - We have used Route53 for mapping the DNS for our application.
 
 
 
+![MyNotes Ops Architecture](https://user-images.githubusercontent.com/58529539/136566201-09a4d8b9-4273-471f-b8b2-408fcbbe28fb.png)
